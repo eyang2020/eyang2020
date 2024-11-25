@@ -1,9 +1,5 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://evanweberyang.github.io/">Evan Yang</a></b></samp></h3>
-<p align="center"><br>
-  <samp>
-    「 Computer Science Bachelor of Science Candidate @ 🚂 <b>Purdue University</b> 」<br>
-  </samp>
-</p>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://evanweberyang.github.io/">Evan Weber</a></b></samp></h3>
+<p align="center"></p>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
